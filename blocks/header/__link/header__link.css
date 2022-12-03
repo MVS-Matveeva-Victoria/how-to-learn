@@ -6,19 +6,6 @@
   font-weight: normal;
   text-decoration: none;
   opacity: 1;
-  -moz-transition-property: color; 
-  -moz-transition-duration: 3s;
-  -webkit-transition-property: color;
-  -webkit-transition-duration: 3s;
-  -o-transition-property: color; 
-  -o-transition-duration: 3s;
-  -ms-transition-property: color; 
-  -ms-transition-duration: 3s;
-  transition-property: color; 
-  transition-duration: 3s;
-  transition-timing-function: ease-in;
-  transition-property: color, opacity;
-  transition-timing-function: ease-in;
 }
 
 .header__link:hover {
