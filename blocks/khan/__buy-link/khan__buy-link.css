@@ -1,0 +1,27 @@
+.khan__buy-link {
+  align-self: flex-start;
+  text-decoration: none;
+  margin: 0 0 0 48px;
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  color: #2f80ed;
+  -moz-transition-property: color; 
+  -moz-transition-duration: 3s;
+  -webkit-transition-property: color; 
+  -webkit-transition-duration: 3s;
+  -o-transition-property: color; 
+  -o-transition-duration: 3s;
+  -ms-transition-property: color; 
+  -ms-transition-duration: 3s;
+  transition-property: color; 
+  transition-duration: 3s;
+  transition-timing-function: ease-in;
+  transition-property: color, opacity;
+  transition-timing-function: ease-in;
+}
+
+.khan__buy-link:hover {
+  opacity: 0.6;
+  color: fuchsia;
+}

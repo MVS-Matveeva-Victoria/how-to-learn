@@ -1,0 +1,25 @@
+.footer__column-link {
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+  color: white;
+  text-decoration: none;
+  -moz-transition-property: color; 
+  -moz-transition-duration: 3s;
+  -webkit-transition-property: color; 
+  -webkit-transition-duration: 3s;
+  -o-transition-property: color; 
+  -o-transition-duration: 3s;
+  -ms-transition-property: color; 
+  -ms-transition-duration: 3s;
+  transition-property: color; 
+  transition-duration: 3s;
+  transition-timing-function: ease-in;
+  transition-property: color, opacity;
+  transition-timing-function: ease-in;
+}
+
+.footer__column-link:hover {
+  opacity: 0.6;
+  color: fuchsia;
+}
